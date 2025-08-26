@@ -4,5 +4,5 @@ Este trabalho apresenta o DER, esquema relacional, dicionário de dados e script
 
 ## Integrantes:
 - Eduardo de Souza Tabareli
-- Caua Bolani de Jesus
+- Caua de Jesus Bolani
 - Nicolas Emanuel Gonçalves Fermino

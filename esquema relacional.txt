@@ -1,0 +1,7 @@
+ESQUEMA RELACIONAL:
+
+Notação: sublinhado = PK; (FK) referência Tabela 
+CLIENTE ( CPF, Nome, Telefone ) 
+VETERINARIO ( CRMV, Nome, Dt_Admissao, Salario ) 
+ANIMAL ( Codigo, Nome, Ano_Nasc, Raça, CPF (FK) referência CLIENTE ) 
+CONSULTA ( IDConsulta, Data, Hora, Motivo, CRMV (FK) referencia VETERINARIO, Codigo (FK) referencia ANIMAL )
